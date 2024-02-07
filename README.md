@@ -1,6 +1,7 @@
 Hey there! I'm Osanyaede, a passionate enthusiast in the fields of data analysis, machine learning, and AI engineering. I thrive on exploring data to uncover insights, building predictive models, and creating intelligent systems.
 
 What I'm Interested In
+
 Data Analysis: I love diving into datasets, extracting meaningful information, and visualizing trends.
 Machine Learning: I'm intrigued by the power of algorithms to learn from data and make predictions or decisions.
 AI Engineering: Crafting intelligent systems that can perceive, reason, and act fascinates me.
